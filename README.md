@@ -6,4 +6,5 @@ Current scope is to be online and editable by anyone. Physical copies are not pl
 Our goal is to be unbiased, and report events easily, and live.
 
 *Content may not be updated in live time and may be out of date.
+
 **I'll try to keep things unbiased, but this is made to be editable by anyone, so inaccuracy may occur, and content may be stubbed.
